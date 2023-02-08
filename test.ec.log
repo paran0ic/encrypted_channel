@@ -1,0 +1,23 @@
+śro, 8 lut 2023, 10:20:30 CET
+śro, 8 lut 2023, 10:21:59 CET
+bad signature
+śro, 8 lut 2023, 10:22:32 CET
+śro, 8 lut 2023, 10:24:02 CET
+śro, 8 lut 2023, 10:25:07 CET
+śro, 8 lut 2023, 10:25:57 CET
++ date
+śro, 8 lut 2023, 10:26:15 CET
++ date
+śro, 8 lut 2023, 10:26:41 CET
+bad signature
+śro, 8 lut 2023, 10:26:48 CET
++ ls
+public.pem
+README.md
+sign.sh
+test.ec
+test.ec.log
+test.ec.sig
+verify-run.sh
+verify.sh
++ date
